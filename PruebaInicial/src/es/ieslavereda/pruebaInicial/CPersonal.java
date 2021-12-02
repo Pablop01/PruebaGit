@@ -2,7 +2,7 @@ package es.ieslavereda.pruebaInicial;
 
 public class CPersonal extends Contacto{
 
-	private String fechaNacimiento2;
+	private String fechaNacimiento;
 	
 	public CPersonal(String nombre, String telf) {
 		super(nombre, telf);
